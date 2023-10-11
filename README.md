@@ -2,7 +2,6 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muqimjon&theme=swift&show_icons=true)
 
 
 
@@ -23,18 +22,26 @@
 </a>
 
 
+#
 
 <!-- My info -->
+<!-- personal info short -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muqimjon&theme=swift&show_icons=true)
+
+
 ###
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muqimjon&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-
 
 <!-- Top languages -->
-###
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muqimjon&size_weight=0.5&count_weight=0.5)
 
 
+
+
+
+###
+<!-- more personal info 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muqimjon&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+-->
 
 <!-- projectlar uchun
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muqimjon&repo=github-readme-stats)](https://github.com/muqimjon/github-readme-stats)
