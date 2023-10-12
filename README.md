@@ -5,7 +5,7 @@
 
 
 
-<!-- Projects -->
+<!-- Projects 
 ### Projects
 
 <a href="https://github.com/muqimjon/sysme">
@@ -20,7 +20,7 @@
 <a href="https://github.com/muqimjon/recore">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muqimjon&repo=recore" />
 </a>
-
+-->
 
 #
 
@@ -29,7 +29,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muqimjon&theme=swift&show_icons=true)
 
 
-###
+#
 
 <!-- Top languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muqimjon&size_weight=0.5&count_weight=0.5)
