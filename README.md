@@ -23,13 +23,12 @@
 </p>
 
 
-##
 <p align="center">
 	<a href="#">
 		<img title="🔥 Streak stats" alt="Muqimjon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=muqimjon&theme=monokai-metallian&hide_border=true"/>
 	</a>
 </p>
-##
+
 <p align="center">
 	Vizitor Count<br>
 	<img src="https://profile-counter.glitch.me/muqimjon/count.svg"/>
