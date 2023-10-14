@@ -1,9 +1,23 @@
+
 ![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Muqimjon%20Mamadaliyev&desc=.NET%20Developer&animation=fadeIn&fontAlign=70&fontAlignY=38&descAlign=82&color=d0b0ff&fontSize=40)
 
 
-<!--![GitHub](https://img.shields.io/github/license/github.com%2Fmuqimjon/github.com%2Fmuqimjon%2Fmed-x)-->
 
-##
+
+<!--![GitHub](https://img.shields.io/github/license/github.com%2Fmuqimjon/github.com%2Fmuqimjon%2Fmed-x)-->
+<h2>📈 Github stats</h2>
+<p>
+<a align="center">
+	<img alt="Muqimjon's Github stats" src="https://github-readme-stats.vercel.app/api?username=muqimjon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
+</a>
+<a align=center">
+	<img alt="Muqimjon's Top languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=muqimjon&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+</a>
+</p>
+
+
+
+<h2>🔗 Contact</h2>
 <p align="center">
 <a href= "https://www.linkedin.com/in/muqimjon/">
 	<img alt="stackowerflow"
@@ -20,19 +34,37 @@
 <a href= "https://stackoverflow.com/users/20834038/muqimjon">
 	<img alt="stackowerflow"
 		src="https://img.shields.io/badge/stack_overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"></a>
+<a href= "https://stackoverflow.com/users/20834038/muqimjon">
+	<img alt="stackowerflow"
+		src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719"></a>
+<a href= "https://stackoverflow.com/users/20834038/muqimjon">
+	<img alt="stackowerflow"
+		src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"></a>
+<a href= "https://stackoverflow.com/users/20834038/muqimjon">
+	<img alt="stackowerflow"
+		src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"></a>
 </p>
 
 
+
+<h2>🏆 Trophies</h2>
+<img width="98%" alt"Trophy" src="https://github-profile-trophy.vercel.app/?username=muqimjon&row=4&theme=onedark&no-frame=true"/>
+</p>
+
+<h2>🔥 Streak stats</h2>
 <p align="center">
 	<a href="#">
 		<img title="🔥 Streak stats" alt="Muqimjon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=muqimjon&theme=monokai-metallian&hide_border=true"/>
 	</a>
 </p>
 
+
+
 <p align="center">
 	Vizitor Count<br>
 	<img src="https://profile-counter.glitch.me/muqimjon/count.svg"/>
 </p>
+
 
 
 
