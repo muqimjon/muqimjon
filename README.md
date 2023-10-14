@@ -18,29 +18,40 @@
 
 
 <h2>🔗 Contact</h2>
+
+<!-- LinkedIn -->
 <p align="center">
 <a href= "https://www.linkedin.com/in/muqimjon/">
 	<img alt="stackowerflow"
 		src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
+	
+<!-- Telegram -->
 <a href= "https://telegram.me/muqimjon_m">
 	<img alt="stackowerflow"
 		src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
+<!-- Discord -->
 <a href= "https://discord.com/channels/muqimjon">
 	<img alt="stackowerflow"
 		src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
+<!-- Stack Overflow -->
 <a href= "https://stackoverflow.com/users/20834038/muqimjon">
 	<img alt="stackowerflow"
 		src="https://img.shields.io/badge/stack_overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"></a>
-<a href= "https://stackoverflow.com/users/20834038/muqimjon">
+  
+<!-- Substack -->
+<a href= "https://substack.com/@muqimjon">
 	<img alt="stackowerflow"
 		src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719"></a>
-<a href= "https://stackoverflow.com/users/20834038/muqimjon">
+  
+<!-- GitLab -->
+<a href= "https://gitlab.com/muqimjon">
 	<img alt="stackowerflow"
 		src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"></a>
-<a href= "https://stackoverflow.com/users/20834038/muqimjon">
+  
+<!-- Reddit -->
+<a href= "https://www.reddit.com/user/Muqimjon">
 	<img alt="stackowerflow"
 		src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"></a>
 </p>
