@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Muqimjon%20Mamadaliyev&desc=.NET%20Developer&animation=fadeIn&fontAlign=70&fontAlignY=38&descAlign=82&color=d0b0ff)
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Muqimjon%20Mamadaliyev&desc=.NET%20Developer&animation=fadeIn&fontAlign=70&fontAlignY=38&descAlign=82&color=d0b0ff&fontSize=40)
 
 
 <!--![GitHub](https://img.shields.io/github/license/github.com%2Fmuqimjon/github.com%2Fmuqimjon%2Fmed-x)-->
