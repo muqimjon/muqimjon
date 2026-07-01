@@ -57,6 +57,15 @@
 
 <br>
 
+<!-- ======================= ACTIVITY GRAPH ======================= -->
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+  <img width="95%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=muqimjon&bg_color=1F222E&color=c9d1d9&line=a044ff&point=f85d7f&area=true&area_color=6a3093&hide_border=true&custom_title=Contribution%20Graph" />
+</p>
+
+<br>
+
 <!-- ======================= GITHUB STATS ======================= -->
 <h2 align="center">📊 GitHub Statistics</h2>
 
@@ -70,21 +79,7 @@
 </p>
 
 <p align="center">
-  <img width="49%" alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muqimjon&theme=radical" />
-  <img width="49%" alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muqimjon&theme=radical&utcOffset=5" />
-</p>
-
-<p align="center">
   <img width="80%" alt="Muqimjon's Streak" src="https://streak-stats.demolab.com?user=muqimjon&theme=radical&hide_border=true" />
-</p>
-
-<br>
-
-<!-- ======================= ACTIVITY GRAPH ======================= -->
-<h2 align="center">📈 Contribution Activity</h2>
-
-<p align="center">
-  <img width="95%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=muqimjon&bg_color=1F222E&color=c9d1d9&line=a044ff&point=f85d7f&area=true&area_color=6a3093&hide_border=true&custom_title=Contribution%20Graph" />
 </p>
 
 <br>
