@@ -31,55 +31,24 @@
 
 <br>
 
-<!-- ======================= TECH STACK ======================= -->
-<h2 align="center">🛠️ Tech Stack</h2>
+<!-- ======================= GITHUB STATS ======================= -->
+<h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center"><i>Backend &amp; tools I work with confidently</i></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mysql,sqlite,docker,aws" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,bash,visualstudio,vscode" />
+  <img width="70%" alt="Muqimjon's GitHub stats" src="https://gitcrest.pages.dev/api/card?username=muqimjon&theme=dark&primary=a044ff&secondary=f85d7f&bg=1F222E&sections=stats,langs,streak,activity,stack&stack=csharp,dotnet,postgres,mysql,sqlite,minio,docker,aws,hetzner,git,github,githubactions,linux,bash,visualstudio,vscode" />
 </p>
 
-<p align="center"><i>Architecture &amp; concepts</i></p>
+<br>
+
+<!-- ======================= ARCHITECTURE ======================= -->
+<h2 align="center">🛠️ Architecture &amp; Concepts</h2>
+
 <p align="center">
   <img alt="Clean Architecture" src="https://img.shields.io/badge/Clean_Architecture-6a3093?style=for-the-badge" />
   <img alt="CQRS" src="https://img.shields.io/badge/CQRS-6a3093?style=for-the-badge" />
   <img alt="MediatR" src="https://img.shields.io/badge/MediatR-a044ff?style=for-the-badge" />
   <img alt="REST API" src="https://img.shields.io/badge/REST_API-a044ff?style=for-the-badge" />
   <img alt="xUnit" src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img alt="MinIO" src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" />
-</p>
-
-<p align="center"><i>Currently learning &amp; exploring</i></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind,redis,nginx,azure,kubernetes" />
-</p>
-
-<br>
-
-<!-- ======================= GITHUB STATS ======================= -->
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<p align="center">
-  <img width="80%" alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muqimjon&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="49%" alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muqimjon&theme=radical" />
-  <img width="49%" alt="Most used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muqimjon&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="80%" alt="Muqimjon's Streak" src="https://streak-stats.demolab.com?user=muqimjon&theme=radical&hide_border=true" />
-</p>
-
-<br>
-
-<!-- ======================= ACTIVITY GRAPH ======================= -->
-<h2 align="center">📈 Contribution Activity</h2>
-
-<p align="center">
-  <img width="95%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=muqimjon&bg_color=1F222E&color=c9d1d9&line=a044ff&point=f85d7f&area=true&area_color=6a3093&hide_border=true&custom_title=Contribution%20Graph" />
 </p>
 
 <br>
